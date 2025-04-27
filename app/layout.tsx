@@ -5,7 +5,6 @@ import ClientLayout from "./client"
 export const metadata: Metadata = {
   title: "Nexicon - The Future of Social Media",
   description: "The Future of Social Media, Reimagined",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
